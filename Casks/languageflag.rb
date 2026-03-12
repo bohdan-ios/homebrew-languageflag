@@ -1,6 +1,6 @@
 cask "languageflag" do
   version "1.4"
-  sha256 "4a416f87089c2535a2e2180d8b904ffa01719e97c464cb6094d4f0b0cddfa196"
+  sha256 "7d297cb42c9fbfe7212165ef0179b836eb569b9aacb7e54dbd58be7a70604759"
 
   url "https://github.com/bohdan-ios/LanguageFlag/releases/download/v#{version}/LanguageFlag-#{version}.zip"
   name "LanguageFlag"
